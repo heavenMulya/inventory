@@ -17,7 +17,8 @@
 <li class="submenu">
 <a href="javascript:void(0);"><img src="assets/img/icons/product.svg" alt="img"><span> Chickens</span> <span class="menu-arrow"></span></a>
 <ul>
-<li><a href="productlist.php">Chickens List</a></li>
+<li><a href="chicken_batchwise.php">Chickens BatchWise</a></li>
+<li><a href="chicken_entries.php">Chickens Dily Entrie</a></li>
 </ul>
 </li>
 <li class="submenu">
